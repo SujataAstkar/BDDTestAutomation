@@ -116,7 +116,7 @@ webDriverWait1.until(ExpectedConditions.titleIs("Amazon.in : "+productnameinTitl
 
 //Assertion for Page Title
 Assert.assertEquals("Page Title validation","Amazon.in : "+productnameinTitle, driver.getTitle());
-scn.log("page title validation is successful");
+scn.log("page title validation is successful .");
 }
 
 
