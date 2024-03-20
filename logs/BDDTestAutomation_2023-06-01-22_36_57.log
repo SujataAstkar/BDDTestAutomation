@@ -1,0 +1,9 @@
+2023-Jun-01 22:37:42 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Jun-01 22:37:43 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Jun-01 22:37:43 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Jun-01 22:37:43 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Jun-01 22:37:47 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Jun-01 22:37:48 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - base_urlhttps://amazon.inValidatiom is done
+2023-Jun-01 22:37:48 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - sending a keys as Laptop
+2023-Jun-01 22:37:52 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - clicked on the product
+2023-Jun-01 22:37:53 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed

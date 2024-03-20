@@ -1,0 +1,9 @@
+2024-Mar-18 14:47:03 PM [main] INFO  com.visionit.automation_core.WebDriverFactory - Firefox Browser invoked
+2024-Mar-18 14:47:03 PM [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2024-Mar-18 14:47:03 PM [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2024-Mar-18 14:47:03 PM [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2024-Mar-18 14:47:08 PM [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2024-Mar-18 14:47:10 PM [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - base_urlhttps://amazon.inValidatiom is done
+2024-Mar-18 14:47:11 PM [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - sending a keys as Laptop
+2024-Mar-18 14:47:16 PM [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - clicked on the product
+2024-Mar-18 14:47:23 PM [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed

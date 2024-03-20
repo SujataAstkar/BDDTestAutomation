@@ -1,0 +1,5 @@
+2023-May-23 11:18:36 am [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-May-23 11:18:52 am [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - base_urlhttps://amazon.inValidatiom is done
+2023-May-23 11:18:53 am [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - sending a keys as Laptop
+2023-May-23 11:18:57 am [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - clicked on the product
+2023-May-23 11:19:18 am [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is clossed

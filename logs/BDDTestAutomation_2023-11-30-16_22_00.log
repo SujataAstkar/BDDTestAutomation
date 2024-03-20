@@ -1,0 +1,19 @@
+2023-Nov-30 16:22:03 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Nov-30 16:22:04 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Nov-30 16:22:04 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Nov-30 16:22:04 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Nov-30 16:22:06 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Nov-30 16:22:06 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed
+2023-Nov-30 16:22:07 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Nov-30 16:22:07 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Nov-30 16:22:07 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Nov-30 16:22:07 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Nov-30 16:22:09 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Nov-30 16:22:09 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - base_urlhttps://amazon.inValidatiom is done
+2023-Nov-30 16:22:10 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed
+2023-Nov-30 16:22:11 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Nov-30 16:22:11 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Nov-30 16:22:11 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Nov-30 16:22:11 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Nov-30 16:22:13 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Nov-30 16:22:13 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed

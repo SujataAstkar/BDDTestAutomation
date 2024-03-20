@@ -1,0 +1,18 @@
+2023-Jul-05 16:06:01 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Jul-05 16:06:01 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Jul-05 16:06:01 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Jul-05 16:06:01 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Jul-05 16:06:06 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Jul-05 16:06:06 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed
+2023-Jul-05 16:06:07 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Jul-05 16:06:08 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Jul-05 16:06:08 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Jul-05 16:06:08 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Jul-05 16:06:10 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Jul-05 16:06:10 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed
+2023-Jul-05 16:06:11 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Chrome Browser invoked
+2023-Jul-05 16:06:11 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2023-Jul-05 16:06:11 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - Browser invoked.
+2023-Jul-05 16:06:11 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-Jul-05 16:06:18 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Browser navigated to the url: https://amazon.in
+2023-Jul-05 16:06:18 pm [main] INFO  com.visionit.automation_core.WebDriverFactory - Driver closed

@@ -1,0 +1,141 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2024-03-18T09:16:45.602Z",
+        "before": [
+          {
+            "output": [
+              "browser is maximized"
+            ],
+            "result": {
+              "duration": 18076000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "User is click on the Product and check the Product Details",
+        "description": "",
+        "id": "e-commerce-project-web-site-health-check;user-is-click-on-the-product-and-check-the-product-details",
+        "after": [
+          {
+            "output": [
+              "Test case is passed, no screen shot captured"
+            ],
+            "result": {
+              "duration": 8000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.takeScreenShot(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "output": [
+              "browser is clossed"
+            ],
+            "result": {
+              "duration": 1613000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "output": [
+              "page title validation is successful"
+            ],
+            "result": {
+              "duration": 6589000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User navigated to the home application url",
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.user_navigated_to_the_home_application_url()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5640000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User Search for product \"Laptop\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Laptop\"",
+                  "offset": 24
+                }
+              ],
+              "location": "com.visionit.automation.stepdefs.stepDefs.user_search_for_product(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3186000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User click on any product",
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.user_click_on_any_product()"
+            },
+            "keyword": "When "
+          },
+          {
+            "output": [
+              "new tab is open"
+            ],
+            "result": {
+              "duration": 2741000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Product Description is displayed in new tab",
+            "match": {
+              "location": "com.visionit.automation.stepdefs.stepDefs.product_description_is_displayed_in_new_tab()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@healthcheck"
+          },
+          {
+            "name": "@product3"
+          }
+        ]
+      }
+    ],
+    "name": "E-commerce Project Web Site Health Check",
+    "description": "",
+    "id": "e-commerce-project-web-site-health-check",
+    "keyword": "Feature",
+    "uri": "classpath:features/HealthCheck.feature",
+    "tags": [
+      {
+        "name": "@healthcheck",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 2
+        }
+      }
+    ]
+  }
+]

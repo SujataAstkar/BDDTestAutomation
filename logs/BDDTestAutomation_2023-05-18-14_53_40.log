@@ -1,0 +1,4 @@
+2023-May-18 14:54:00 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is maximized
+2023-May-18 14:54:29 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - sending a keys as Laptop
+2023-May-18 14:55:04 pm [main] INFO  com.visionit.automation.PageObjects.LandingPageObjects - clickd on the product
+2023-May-18 14:55:12 pm [main] INFO  com.visionit.automation.stepdefs.stepDefs - browser is clossed
